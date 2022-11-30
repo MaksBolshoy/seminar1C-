@@ -1,0 +1,15 @@
+C:\Users\169\Desktop\lessen1_C#\bin\Debug\net6.0\lessen1_C#.exe
+C:\Users\169\Desktop\lessen1_C#\bin\Debug\net6.0\lessen1_C#.deps.json
+C:\Users\169\Desktop\lessen1_C#\bin\Debug\net6.0\lessen1_C#.runtimeconfig.json
+C:\Users\169\Desktop\lessen1_C#\bin\Debug\net6.0\lessen1_C#.dll
+C:\Users\169\Desktop\lessen1_C#\bin\Debug\net6.0\lessen1_C#.pdb
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.csproj.AssemblyReference.cache
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.AssemblyInfoInputs.cache
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.AssemblyInfo.cs
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.csproj.CoreCompileInputs.cache
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.dll
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\refint\lessen1_C#.dll
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.pdb
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\lessen1_C#.genruntimeconfig.cache
+C:\Users\169\Desktop\lessen1_C#\obj\Debug\net6.0\ref\lessen1_C#.dll
